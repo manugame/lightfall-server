@@ -14,4 +14,6 @@ TODO:
 * config file
 * 1.19.2 version
 
+Based on  [IzzelAliz](https://github.com/IzzelAliz) work
+
 Use this with [lightfall](https://github.com/ArclightPowered/lightfall) and [lightfall-client](https://github.com/ArclightPowered/lightfall-client)
