@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "be.manugame.lightfallserver.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "lightfallserver.refmap.json",
+  "mixins": [
+  ],
+  "server": [
+    "CHandshakePacketMixin",
+    "ClientboundCommandsPacket",
+    "ConnectionMixin",
+    "ServerHandshakeNetHandlerMixin",
+    "ServerLoginNetHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
